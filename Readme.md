@@ -1,11 +1,9 @@
 # Generate a README.md file 
-  sclark417
+  
 ## repo title
   GoodREADMEGenerator
 ##repo description
-  undefined
-  undefined
-  undefined
+   This application will generate a README.md file for your current project
 ## repo instalation steps
   Step1: Run npm install and Step2: Run node index.js
 ## repo usage
@@ -15,9 +13,9 @@
 ## testing
   Insert your tests sample here...
 ## License
-  Copyright (c) mit. All rights reserved.
-  Licensed under the [MIT License](LICENSE.txt) license.
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  Copyright (c) . All rights reserved.
+  Licensed under the [Apache License 2.0](LICENSE.txt) license.
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   
 
