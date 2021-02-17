@@ -45,9 +45,7 @@ function generateMarkdown(data) {
 ## repo title
   ${data.repo}
 ##repo description
-  ${data.what}
-  ${data.why}
-  ${data.how}
+  ${data.desc}
 ## repo instalation steps
   ${data.install}
 ## repo usage
